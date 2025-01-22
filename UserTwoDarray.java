@@ -32,7 +32,7 @@ public class UserTwoDarray {
             System.out.println();
 
         }
-
+        scan.close();
     }
 
 }

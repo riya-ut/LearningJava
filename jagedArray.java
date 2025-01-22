@@ -38,7 +38,7 @@ public class jagedArray {
             System.out.println();
 
         }
-
+        scan.close();
     }
 
 }

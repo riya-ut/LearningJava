@@ -17,6 +17,6 @@ public class UserArray {
         for (int i = 0; i < 5; i++) {
             System.out.println(a[i]);
         }
-
+        scan.close();
     }
 }
